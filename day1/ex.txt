@@ -1,0 +1,11 @@
+>> hello
+Hello 👋 How can I help you?
+
+>> date
+Today's date is 2026-03-30
+
+>> calculate 5 + 10 * 2
+Result: 25
+
+>> what is your name
+Sorry, I didn't understand that 🤔

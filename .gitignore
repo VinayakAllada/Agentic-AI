@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+*.pyc
+requirements.txt
+setup_guide.md
+venv_setup.txt
+verify_setup.py

@@ -1,0 +1,11 @@
+>> calculate 10 + 5 * 2
+🔧 Tool Used: calculator
+🧮 Result: 20
+
+>> weather chennai
+🔧 Tool Used: weather
+🌤 Weather in Chennai: 28°C, Clear Sky
+
+>> summarize artificial intelligence is transforming the world rapidly
+🔧 Tool Used: summarize
+✂️ Summary: artificial intelligence is transforming the...
